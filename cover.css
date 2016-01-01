@@ -19,7 +19,6 @@ a:hover {
   border: 1px solid #fff;
 }
 
-
 /*
  * Base structure
  */
@@ -33,6 +32,7 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  background: url('background2.jpg');
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -161,3 +161,11 @@ body {
     width: 700px;
   }
 }
+
+/* Social media logos */
+.twitter-logo {
+    max-height: 50px;
+/*    margin-left: -61px;
+    margin-top: -50px;*/
+    max-width: 61px;
+  }

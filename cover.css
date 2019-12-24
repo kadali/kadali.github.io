@@ -27,12 +27,14 @@ html,
 body {
   height: 100%;
   background-color: #333;
+  font-family: 'Space Mono', monospace;
 }
 body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   background: url('background2.jpg');
+  font-family: 'Space Mono', monospace;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -65,10 +67,12 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  font-family: 'Space Mono', monospace;
 }
 
 .masthead-nav > li {
   display: inline-block;
+  font-family: 'Space Mono', monospace;
 }
 .masthead-nav > li + li {
   margin-left: 20px;
